@@ -1,0 +1,215 @@
+@media (max-width: 575.99px) {
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+
+  .navbar-toggler {
+    color: #fff;
+  }
+
+  #navbarSupportedContent {
+    background: #6a55ea;
+    padding: 20px 0 20px 100px;
+  }
+
+  #navbarSupportedContent ul li {
+    padding-bottom: 10px;
+  }
+
+  /*====navber responsive end====*/
+  /*====banner responsive start====*/
+
+  #banner {
+    padding-top: 164px;
+    padding-bottom: 200px;
+  }
+
+  .banner_text h1 {
+    font-size: 35px;
+  }
+
+  .banner_text p {
+    font-size: 16px;
+    padding: 0;
+  }
+
+  .ban_input input {
+    width: 100%;
+    padding: 15px 0 15px 20px;
+    border-radius: 20px;
+    border: none;
+    position: static;
+  }
+
+  .ban_input button {
+    position: static;
+    border-radius: 50px;
+    padding: 15px 20px 15px;
+    margin-top: 10px;
+  }
+
+  .brand {
+    bottom: -50px;
+  }
+
+  /*====banner responsive end====*/
+  /*====service part responsive start====*/
+  #service {
+    padding-top: 120px;
+  }
+
+  .service_head h2 {
+    font-size: 35px;
+    padding: 0;
+  }
+
+  .service_body {
+    margin-top: 17px;
+  }
+
+  .col_left p {
+    font-size: 16px;
+    margin-bottom: 67px;
+  }
+
+  .service_item {
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .service_left {
+    padding-left: 67px;
+  }
+
+  .service_text p {
+    padding-right: 0px;
+  }
+
+  .service_text {
+    padding-left: 0px;
+  }
+
+  .service_text {
+    margin-top: 20px;
+  }
+  /*====service part responsive end====*/
+
+  /*====traffic part responsive start====*/
+
+  .left_part h3 {
+    font-size: 32px;
+    margin-top: 20px;
+    margin-bottom: 22px;
+  }
+
+  .left_part p {
+    font-size: 16px;
+    padding-right: 0px;
+  }
+  /*====traffic part responsive end====*/
+  /*====help part responsive start====*/
+  #help_part {
+    padding: 60px 0;
+  }
+
+  .heading_help h2 {
+    font-size: 30px;
+    margin-top: 23px;
+  }
+
+  .help_box {
+    pointer-events: none;
+  }
+  .main {
+    margin-bottom: 78px;
+  }
+
+  .content_bottom p {
+    padding-right: 0px;
+  }
+
+  .content_bottom {
+    text-align: center;
+  }
+
+  .content_bottom h3 {
+    font-size: 29px;
+    margin-bottom: 26px;
+  }
+
+  .content_bottom p {
+    font-size: 15px;
+    line-height: 193%;
+  }
+
+  .btn {
+    padding: 16px 30px;
+    margin-bottom: 30px;
+  }
+
+  .btn:hover {
+    pointer-events: none;
+  }
+
+  /*====help part responsive end====*/
+  /*====studies part responsive start====*/
+  #studies_part {
+    padding: 80px 0;
+  }
+
+  .studies_left h3 {
+    font-size: 39px;
+  }
+
+  .studies_btn {
+    text-align: center;
+  }
+
+  .studies_btn .view {
+    padding: 12px 30px;
+    margin-top: 37px;
+  }
+  /*====studies part responsive end====*/
+  /*====procing part responsive start====*/
+
+  #pricing_part {
+    padding-top: 71px;
+  }
+
+  .pricing_head h3 {
+    font-size: 26px;
+    line-height: 149%;
+  }
+
+  .pricing_plan_head h3 {
+    padding-left: 0px;
+  }
+
+  .pricing_main2 {
+    border-right: 1px solid #d7e6f9;
+    margin-top: 120px;
+  }
+
+  .pricing_main3 {
+    border-right: 1px solid #d7e6f9;
+    margin-top: 120px;
+  }
+
+  .pricing_main4 {
+    margin-top: 120px;
+  }
+
+  #analysis_part {
+    padding: 81px 0;
+  }
+  /*====pricing part responsive end====*/
+  /*====analysis part responsive start====*/
+  .analysis_text h2 {
+    font-size: 36px;
+  }
+
+  .pricing_main:nth-child(1) .pricing_plan_head::after {
+    max-width: 100%;
+  }
+  /*====anlysis part responsive end====*/
+}
